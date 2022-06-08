@@ -1,0 +1,6 @@
+/Users/lorenz/Documents/curso cs/Elevator/Elevator/Elevator/bin/Debug/Elevator.exe
+/Users/lorenz/Documents/curso cs/Elevator/Elevator/Elevator/bin/Debug/Elevator.pdb
+/Users/lorenz/Documents/curso cs/Elevator/Elevator/Elevator/obj/Debug/Elevator.csproj.AssemblyReference.cache
+/Users/lorenz/Documents/curso cs/Elevator/Elevator/Elevator/obj/Debug/Elevator.csproj.CoreCompileInputs.cache
+/Users/lorenz/Documents/curso cs/Elevator/Elevator/Elevator/obj/Debug/Elevator.exe
+/Users/lorenz/Documents/curso cs/Elevator/Elevator/Elevator/obj/Debug/Elevator.pdb
